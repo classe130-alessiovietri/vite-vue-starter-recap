@@ -4,4 +4,7 @@ import { createApp } from 'vue'
 // import './style.css'
 import App from './App.vue'
 
+// Per installare e far funzionare Bootstrap: https://getbootstrap.com/docs/5.3/getting-started/vite/
+import * as bootstrap from 'bootstrap'
+
 createApp(App).mount('#app')
